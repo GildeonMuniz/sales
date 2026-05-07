@@ -2,6 +2,7 @@
 
 API REST em .NET 8 com Clean Architecture, CQRS e PostgreSQL.
 
+Apesar de o projeto possuir um processo de autenticação implementado, ele não está sendo exigido para a criação das ordens de venda, com o objetivo de facilitar os testes realizados pelos avaliadores.
 ---
 
 ## Pré-requisitos
